@@ -1,0 +1,22 @@
+{
+  "name": "grammy-debug-edge",
+  "version": "0.0.0",
+  "description": "grammY debug for Edge runtimes",
+  "main": "index.mjs",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PonomareVlad/grammY-debug-Edge.git"
+  },
+  "keywords": ["grammy", "debug", "vercel", "edge"],
+  "author": "Vladislav Ponomarev <PonomareVlad@users.noreply.github.com> (https://PonomareVlad.ru)",
+  "funding": "https://PonomareVlad.ru/donate",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PonomareVlad/grammY-debug-Edge/issues"
+  },
+  "homepage": "https://github.com/PonomareVlad/grammY-debug-Edge#readme",
+  "dependencies": {
+    "@ponomarevlad/local-storage-polyfill": "module"
+  }
+}
